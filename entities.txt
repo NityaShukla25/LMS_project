@@ -1,0 +1,17 @@
+1. User
+    - Name
+    - User_id
+
+2. Book
+    - Name
+    - Author
+    - Id
+
+3. Stock Management
+    - Add
+    - Delete
+
+4. Operations
+    - Borrow
+    - Return
+    - Renew
